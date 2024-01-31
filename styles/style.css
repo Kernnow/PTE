@@ -1,0 +1,64 @@
+body {
+  cursor: url(Pokeball.cur), auto;
+  text-align: center;
+  
+}
+
+#trailer {
+  width: 500px;
+  height: 300px;
+  border-radius: 60px;
+}
+
+
+#divisoria {
+  padding: 0 0 13px 0;
+}
+
+#abas {
+font-weight: bold;
+font-size: 30px;
+margin: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+span {
+  font-style: italic;
+}
+
+#principa {
+  border-radius: 20px;
+  width: 60px;
+  height: 60px;
+  margin: 10px 0 0 0;
+}
+
+#center {
+  border-radius: 100px;
+  padding: 10px;
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+}
+
+button {
+  border-radius: 30px;
+  margin: 10px;
+  color:black;
+  border-color: black;
+  font-weight: bold;
+}
